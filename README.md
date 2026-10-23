@@ -11,4 +11,4 @@ multi-character string. So after reading "10", the set of next states was empty 
 of {q2}, and the path died. I fixed it with two separate loops, one for 0 and one for 1.
 In future projects, exams, or real state controllers, I will use one symbol per transition,
 test the shortest and edge-case strings first, and use Simulate to see exactly where a path
-fails. I also learned that Windows can hide file extensions, and that a .md file only links to pictures.
+fails.
